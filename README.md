@@ -22,6 +22,8 @@
   <a href="https://www.linkedin.com/in/gabriel-salmazi-53a908205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  ##
   <div>
     <h3>Front-End</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
