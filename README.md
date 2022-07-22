@@ -1,4 +1,4 @@
-## Olá, sou o Gabriel. Programador Full Stack na empresa Rede Telecom e estudante de Sistemas de Informação na UFMS
+## Olá, sou o Gabriel. Programador Full Stack na empresa Mix Financeira e estudante de Sistemas de Informação na UFMS
 <div align="center">
   <a href="https://github.com/GabrielSalmazi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielsalmazi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
